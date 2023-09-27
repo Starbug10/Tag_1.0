@@ -1,0 +1,8 @@
+name: Tag
+version: '${project.version}'
+main: Starbug
+api-version: 1.19
+commands:
+  start:
+    description: Execute the tag
+    usage: /start
